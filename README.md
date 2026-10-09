@@ -72,33 +72,33 @@
 
 ## Accounting
 
-* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,845 | 🐛 168 | 🌐 PHP | 📅 2026-10-08 - "Firefly III" is a (self-hosted) manager for your personal finances. It can help you keep track of your expenses and income, so you can spend less and save more.
-* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ⭐ 10,244 | 🐛 225 | 🌐 PHP | 📅 2026-10-07 - Invoices, Expenses and Tasks built with Laravel and Flutter.
-* [Akaunting](https://github.com/akaunting/akaunting) ⭐ 10,168 | 🐛 7 | 🌐 PHP | 📅 2026-10-07 - Akaunting is a free, open source and online accounting software designed for small businesses and freelancers. It is built with modern technologies such as Laravel, VueJS, Bootstrap 4, RESTful API etc.
-* [Crater](https://github.com/bytefury/crater) ⭐ 8,349 | 🐛 425 | 🌐 PHP | 📅 2024-08-10 - Crater is an open-source web & mobile app that helps you track expenses, payments & create professional invoices & estimates.
+* [Firefly III](https://github.com/firefly-iii/firefly-iii) ⭐ 24,851 | 🐛 169 | 🌐 PHP | 📅 2026-10-09 - "Firefly III" is a (self-hosted) manager for your personal finances. It can help you keep track of your expenses and income, so you can spend less and save more.
+* [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) ⭐ 10,254 | 🐛 226 | 🌐 PHP | 📅 2026-10-08 - Invoices, Expenses and Tasks built with Laravel and Flutter.
+* [Akaunting](https://github.com/akaunting/akaunting) ⭐ 10,171 | 🐛 7 | 🌐 PHP | 📅 2026-10-08 - Akaunting is a free, open source and online accounting software designed for small businesses and freelancers. It is built with modern technologies such as Laravel, VueJS, Bootstrap 4, RESTful API etc.
+* [Crater](https://github.com/bytefury/crater) ⭐ 8,351 | 🐛 425 | 🌐 PHP | 📅 2024-08-10 - Crater is an open-source web & mobile app that helps you track expenses, payments & create professional invoices & estimates.
 
 ## Analytics
 
-* [Umami](https://github.com/mikecao/umami) ⭐ 39,243 | 🐛 134 | 🌐 TypeScript | 📅 2026-10-08 - [Umami](https://umami.is/) is a simple, fast, website analytics alternative to Google Analytics.
-* [Plausible](https://github.com/plausible/analytics/) ⭐ 29,346 | 🐛 63 | 🌐 Elixir | 📅 2026-10-08 - [Plausible Analytics](https://plausible.io/) is a simple, lightweight (< 1 KB), open-source and privacy-friendly alternative to Google Analytics. It doesn’t use cookies and is fully compliant with GDPR, CCPA and PECR.
-* [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,937 | 🐛 2,545 | 🌐 PHP | 📅 2026-10-08 - Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights.
-* [Fathom](https://github.com/usefathom/fathom) ⭐ 8,021 | 🐛 5 | 🌐 Go | 📅 2026-03-18 - Simple, privacy-focused website analytics. Built with Golang & Preact.
+* [Umami](https://github.com/mikecao/umami) ⭐ 39,270 | 🐛 123 | 🌐 TypeScript | 📅 2026-10-09 - [Umami](https://umami.is/) is a simple, fast, website analytics alternative to Google Analytics.
+* [Plausible](https://github.com/plausible/analytics/) ⭐ 29,356 | 🐛 65 | 🌐 Elixir | 📅 2026-10-09 - [Plausible Analytics](https://plausible.io/) is a simple, lightweight (< 1 KB), open-source and privacy-friendly alternative to Google Analytics. It doesn’t use cookies and is fully compliant with GDPR, CCPA and PECR.
+* [Matomo](https://github.com/matomo-org/matomo) ⭐ 21,939 | 🐛 2,543 | 🌐 PHP | 📅 2026-10-09 - Matomo is the leading open alternative to Google Analytics that gives you full control over your data. Matomo lets you easily collect data from websites, apps & the IoT and visualise this data and extract insights.
+* [Fathom](https://github.com/usefathom/fathom) ⭐ 8,020 | 🐛 5 | 🌐 Go | 📅 2026-03-18 - Simple, privacy-focused website analytics. Built with Golang & Preact.
 * [Repohistory](https://github.com/repohistory/repohistory) ⭐ 439 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-04 - [Repohistory](https://repohistory.com) is an analytics tool for tracking GitHub repo traffic history longer than 14 days.
 * [Open-Web-Analytics](http://www.openwebanalytics.com/) - Open Web Analytics is an open source alternative to commercial tools such as Google Analytics. Stay in control of the data you collect about the use of your website or app.
 
 ## Asset Management
 
-* [Snipe-IT](https://github.com/snipe/snipe-it) ⭐ 15,014 | 🐛 922 | 🌐 PHP | 📅 2026-10-08 - A free open source IT asset/license management system.
+* [Snipe-IT](https://github.com/snipe/snipe-it) ⭐ 15,016 | 🐛 922 | 🌐 PHP | 📅 2026-10-08 - A free open source IT asset/license management system.
 
 ## BaaS
 
-* [Supabase](https://github.com/supabase/supabase) ⭐ 111,237 | 🐛 1,145 | 🌐 TypeScript | 📅 2026-10-08 - [Supabase](https://supabase.com/) is an open source Firebase alternative.
-* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,597 | 🐛 752 | 🌐 TypeScript | 📅 2026-10-08 - [Appwrite](https://appwrite.io/) is a self-hosted solution that provides developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.
+* [Supabase](https://github.com/supabase/supabase) ⭐ 111,282 | 🐛 1,136 | 🌐 TypeScript | 📅 2026-10-09 - [Supabase](https://supabase.com/) is an open source Firebase alternative.
+* [Appwrite](https://github.com/appwrite/appwrite) ⭐ 57,617 | 🐛 770 | 🌐 TypeScript | 📅 2026-10-09 - [Appwrite](https://appwrite.io/) is a self-hosted solution that provides developers with a set of easy-to-use and integrate REST APIs to manage their core backend needs.
 
 ## Chat and Message Platforms
 
-* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,231 | 🐛 4,206 | 🌐 TypeScript | 📅 2026-10-08 - The ultimate Free Open Source Solution for team communications.
-* [Zulip](https://github.com/zulip/zulip) ⭐ 26,013 | 🐛 2,041 | 🌐 Python | 📅 2026-10-08 - Zulip server - powerful open source team chat.
+* [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat) ⭐ 46,242 | 🐛 4,199 | 🌐 TypeScript | 📅 2026-10-09 - The ultimate Free Open Source Solution for team communications.
+* [Zulip](https://github.com/zulip/zulip) ⭐ 26,018 | 🐛 2,048 | 🌐 Python | 📅 2026-10-09 - Zulip server - powerful open source team chat.
 * [Discord](https://discord.com/download) - Freeware instant messaging and VoIP application and digital distribution platform designed for creating communities ranging from gamers to education and businesses.
 * [Matrix](https://matrix.org/) - Matrix is an open source project that publishes the Matrix open standard for secure, decentralised, real-time communication, and its Apache licensed reference implementations.
 * [Mattermost](https://mattermost.com/download/) - Mattermost is an open-source, self-hostable [Slack](https://slack.com/) alternative which provides online chat service with file sharing, search, and integrations.
@@ -106,59 +106,59 @@
 
 ## Content Management Systems (CMS)
 
-* [October](https://github.com/octobercms/october) ⭐ 11,147 | 🐛 14 | 🌐 PHP | 📅 2026-10-06 - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
-* [Joomla](https://github.com/joomla/joomla-cms) ⭐ 5,143 | 🐛 981 | 🌐 PHP | 📅 2026-10-07 - Joomla is a free and open-source content management system for publishing web content, developed by Open Source Matters, Inc. It is built on a model–view–controller web application framework that can be used independently of the CMS.
+* [October](https://github.com/octobercms/october) ⭐ 11,148 | 🐛 15 | 🌐 PHP | 📅 2026-10-06 - Free, open-source, self-hosted CMS platform based on the Laravel PHP Framework.
+* [Joomla](https://github.com/joomla/joomla-cms) ⭐ 5,144 | 🐛 985 | 🌐 PHP | 📅 2026-10-07 - Joomla is a free and open-source content management system for publishing web content, developed by Open Source Matters, Inc. It is built on a model–view–controller web application framework that can be used independently of the CMS.
 * [Bolt](https://github.com/bolt/bolt) ⚠️ Archived - A Sophisticated, lightweight & simple CMS released under the open source MIT-license.
 * [Microweber](https://github.com/microweber/microweber) ⭐ 3,440 | 🐛 385 | 🌐 HTML | 📅 2026-10-08 - Microweber is a Drag and Drop website builder and a powerful next generation CMS.
 * [PyroCMS](https://github.com/pyrocms/pyrocms) ⭐ 3,174 | 🐛 6 | 🌐 PHP | 📅 2026-05-21 - PyroCMS is an easy to use, powerful, and modular CMS and development platform built with Laravel 5.
-* [Silex](https://github.com/silexlabs/Silex) ⭐ 2,997 | 🐛 61 | 🌐 TypeScript | 📅 2026-10-08 - Free/libre visual website builder for creating static sites with dynamic data. No vendor lock-in, self-hosted, desktop version available. AGPL-3.0.
-* [ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) ⭐ 506 | 🐛 436 | 🌐 PHP | 📅 2026-10-03 - ExpressionEngine is a mature, flexible, secure, free open-source content management system.
+* [Silex](https://github.com/silexlabs/Silex) ⭐ 2,999 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-09 - Free/libre visual website builder for creating static sites with dynamic data. No vendor lock-in, self-hosted, desktop version available. AGPL-3.0.
+* [ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine) ⭐ 506 | 🐛 437 | 🌐 PHP | 📅 2026-10-03 - ExpressionEngine is a mature, flexible, secure, free open-source content management system.
 * [Drupal](https://www.drupal.org/download) - Drupal is a free and open-source web content management framework written in PHP and distributed under the GNU General Public License.
 * [TYPO3](https://get.typo3.org/) - TYPO3 is a free and open-source Web content management system written in PHP.
 * [WordPress](https://wordpress.org/download/) - WordPress is a free and open-source content management system written in PHP and paired with a MySQL or MariaDB database.
 
 ## Code Quality
 
-* [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 11,052 | 🐛 1 | 🌐 Java | 📅 2026-10-06 - SonarQube is a Continuous Inspection that provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
+* [SonarQube](https://github.com/SonarSource/sonarqube) ⭐ 11,055 | 🐛 1 | 🌐 Java | 📅 2026-10-09 - SonarQube is a Continuous Inspection that provides the capability to not only show health of an application but also to highlight issues newly introduced. With a Quality Gate in place, you can fix the leak and therefore improve code quality systematically.
 
 ## Continuous Integration (CI)
 
-* [Drone](https://github.com/drone/drone) ⭐ 38,499 | 🐛 117 | 🌐 Go | 📅 2026-10-07 - Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
-* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,627 | 🐛 3,590 | 🌐 Java | 📅 2026-10-08 - Jenkins is a free and open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
-* [CDS](https://github.com/ovh/cds) ⭐ 4,846 | 🐛 162 | 🌐 Go | 📅 2026-10-08 - CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).
+* [Drone](https://github.com/drone/drone) ⭐ 38,507 | 🐛 117 | 🌐 Go | 📅 2026-10-09 - Drone is a Continuous Delivery system built on container technology. Drone uses a simple YAML configuration file, a superset of docker-compose, to define and execute Pipelines inside Docker containers.
+* [Jenkins](https://github.com/jenkinsci/jenkins) ⭐ 26,631 | 🐛 3,590 | 🌐 Java | 📅 2026-10-08 - Jenkins is a free and open source automation server. It helps automate the parts of software development related to building, testing, and deploying, facilitating continuous integration and continuous delivery.
+* [CDS](https://github.com/ovh/cds) ⭐ 4,846 | 🐛 163 | 🌐 Go | 📅 2026-10-08 - CDS is an Enterprise-Grade Continuous Delivery & DevOps Automation Platform written in Go(lang).
 * [Strider](https://github.com/Strider-CD/strider) ⭐ 4,565 | 🐛 179 | 🌐 JavaScript | 📅 2024-09-11 - Strider is an Open Source Continuous Deployment / Continuous Integration platform. It is written in Node.js and Ember.js and uses MongoDB as a backing store. It is published under the BSD license.
 * [GitLab Continuous Integration](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - Continuous Integration (CI) works to integrate code provided by your team in a shared repository. Developers share the new code in a Merge (Pull) Request. The request triggers a pipeline to build, test, and validate the new code prior to merging the changes within your repository.
 
 ## Customer Relationship Management (CRM)
 
-* [Twenty](https://github.com/twentyhq/twenty) ⭐ 58,088 | 🐛 155 | 🌐 TypeScript | 📅 2026-10-08 - [Twenty](https://twenty.com) is a modern alternative that marries the streamlined aesthetic of Notion with advanced customer management capabilities
-* [SuiteCRM](https://github.com/salesagility/SuiteCRM) ⭐ 5,789 | 🐛 1,390 | 🌐 PHP | 📅 2026-10-07 - [SuiteCRM](https://suitecrm.com/) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
+* [Twenty](https://github.com/twentyhq/twenty) ⭐ 58,137 | 🐛 119 | 🌐 TypeScript | 📅 2026-10-09 - [Twenty](https://twenty.com) is a modern alternative that marries the streamlined aesthetic of Notion with advanced customer management capabilities
+* [SuiteCRM](https://github.com/salesagility/SuiteCRM) ⭐ 5,790 | 🐛 1,391 | 🌐 PHP | 📅 2026-10-07 - [SuiteCRM](https://suitecrm.com/) is the award-winning open-source, enterprise-ready Customer Relationship Management (CRM) software application.
 * [Fat Free CRM](https://github.com/fatfreecrm/fat_free_crm) ⭐ 3,633 | 🐛 72 | 🌐 Ruby | 📅 2026-09-28 - An open source, Ruby on Rails customer relationship management platform (CRM). Out of the box it features group collaboration, campaign and lead management, contact lists, and opportunity tracking.
 * [DaybydayCRM](https://github.com/Bottelet/DaybydayCRM) ⭐ 2,330 | 🐛 20 | 🌐 JavaScript | 📅 2026-08-31 - DaybydayCRM a customer relationship management system (CRM) which purpose is to help you keep track of your customers, tasks, appointments, etc.
-* [ChurchCRM](https://github.com/ChurchCRM/CRM) ⭐ 963 | 🐛 237 | 🌐 PHP | 📅 2026-10-08 - An OpenSource Church CRM & Management Software.
+* [ChurchCRM](https://github.com/ChurchCRM/CRM) ⭐ 964 | 🐛 225 | 🌐 PHP | 📅 2026-10-09 - An OpenSource Church CRM & Management Software.
 
 ## Discussion Forums
 
-* [Discourse](https://github.com/discourse/discourse) ⭐ 47,944 | 🐛 287 | 🌐 Ruby | 📅 2026-10-08 - A platform for community discussion. Free, open, simple.
-* [Flarum](https://github.com/flarum/flarum) ⭐ 16,411 | 🐛 0 | 🌐 PHP | 📅 2026-08-27 - [Flarum](https://flarum.org/) is a delightfully simple discussion platform for your website.
-* [NodeBB](https://github.com/NodeBB/NodeBB) ⭐ 15,232 | 🐛 110 | 🌐 JavaScript | 📅 2026-10-08 - Node.js based forum software built for the modern web.
-* [Lemmy](https://github.com/LemmyNet/lemmy) ⭐ 14,616 | 🐛 123 | 🌐 Rust | 📅 2026-10-08 - Lemmy is similar to sites like Reddit, Lobste.rs, Raddle, or Hacker News: you subscribe to forums you're interested in, post links and discussions, then vote, and comment on them.
+* [Discourse](https://github.com/discourse/discourse) ⭐ 47,950 | 🐛 275 | 🌐 Ruby | 📅 2026-10-09 - A platform for community discussion. Free, open, simple.
+* [Flarum](https://github.com/flarum/flarum) ⭐ 16,412 | 🐛 1 | 🌐 PHP | 📅 2026-10-09 - [Flarum](https://flarum.org/) is a delightfully simple discussion platform for your website.
+* [NodeBB](https://github.com/NodeBB/NodeBB) ⭐ 15,233 | 🐛 110 | 🌐 JavaScript | 📅 2026-10-09 - Node.js based forum software built for the modern web.
+* [Lemmy](https://github.com/LemmyNet/lemmy) ⭐ 14,621 | 🐛 123 | 🌐 Rust | 📅 2026-10-09 - Lemmy is similar to sites like Reddit, Lobste.rs, Raddle, or Hacker News: you subscribe to forums you're interested in, post links and discussions, then vote, and comment on them.
 
 ## Documentation Builder
 
-* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,438 | 🐛 417 | 🌐 TypeScript | 📅 2026-10-08 - [Docusaurus](https://docusaurus.io/) makes it easy to maintain Open Source documentation websites.
+* [Docusaurus](https://github.com/facebook/Docusaurus) ⭐ 66,445 | 🐛 425 | 🌐 TypeScript | 📅 2026-10-09 - [Docusaurus](https://docusaurus.io/) makes it easy to maintain Open Source documentation websites.
 * [Slate](https://github.com/slatedocs/slate) ⚠️ Archived - Slate helps you create beautiful, intelligent, responsive API documentation.
-* [Docsify](https://github.com/docsifyjs/docsify/) ⭐ 31,536 | 🐛 106 | 🌐 JavaScript | 📅 2026-10-02 - A magical documentation site generator. Simple and lightweight, no statically built html files, multiple themes, etc. Checkout all features [here](https://docsify.js.org/#/?id=features).
-* [VuePress](https://github.com/vuejs/vuepress) ⭐ 22,725 | 🐛 607 | 🌐 JavaScript | 📅 2024-08-07 - Minimalistic Vue-powered static site generator.
-* [MkDocs](https://github.com/mkdocs/mkdocs/) ⭐ 22,495 | 🐛 192 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown.
-* [Read the Docs](https://github.com/readthedocs/readthedocs.org) ⭐ 8,393 | 🐛 399 | 🌐 Python | 📅 2026-10-08 - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion.
-* [Sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 8,058 | 🐛 1,471 | 🌐 Python | 📅 2026-10-05 - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects.
+* [Docsify](https://github.com/docsifyjs/docsify/) ⭐ 31,541 | 🐛 105 | 🌐 JavaScript | 📅 2026-10-09 - A magical documentation site generator. Simple and lightweight, no statically built html files, multiple themes, etc. Checkout all features [here](https://docsify.js.org/#/?id=features).
+* [VuePress](https://github.com/vuejs/vuepress) ⭐ 22,722 | 🐛 607 | 🌐 JavaScript | 📅 2024-08-07 - Minimalistic Vue-powered static site generator.
+* [MkDocs](https://github.com/mkdocs/mkdocs/) ⭐ 22,498 | 🐛 192 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown.
+* [Read the Docs](https://github.com/readthedocs/readthedocs.org) ⭐ 8,395 | 🐛 399 | 🌐 Python | 📅 2026-10-09 - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion.
+* [Sphinx](https://github.com/sphinx-doc/sphinx) ⭐ 8,057 | 🐛 1,472 | 🌐 Python | 📅 2026-10-05 - Sphinx is a tool that makes it easy to create intelligent and beautiful documentation for Python projects.
 * [Docute](https://github.com/egoist/docute) ⚠️ Archived - Effortless documentation, done right.
 
 ## Document Management System
 
 * [Paperless](https://github.com/the-paperless-project/paperless) ⚠️ Archived - Index and archive all of your scanned paper documents.
-* [OpenOffice](https://github.com/apache/openoffice) ⭐ 1,246 | 🐛 19 | 🌐 C++ | 📅 2026-10-08 -  OpenOffice is a open-source office suite.
+* [OpenOffice](https://github.com/apache/openoffice) ⭐ 1,248 | 🐛 19 | 🌐 C++ | 📅 2026-10-08 -  OpenOffice is a open-source office suite.
 * [OpenKM](https://github.com/openkm/document-management-system) ⚠️ Archived - It allows businesses to control the production, storage, management and distribution of electronic documents, yielding greater effectiveness and the ability to reuse information and to control the flow of the documents.
 * [MayanEDMS](https://www.mayan-edms.com/) - Mayan EDMS's main purpose is to store, introspect, and categorize files, with a strong emphasis on preserving the contextual and business information of documents.
 * [OnlyOffice](https://github.com/ONLYOFFICE/) - A free and open source office and productivity suite.
@@ -166,16 +166,16 @@
 
 ## Ecommerce
 
-* [Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,221 | 🐛 27 | 🌐 PHP | 📅 2026-10-08 - A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
-* [Saleor Commerce](https://github.com/mirumee/saleor) ⭐ 23,420 | 🐛 290 | 🌐 Python | 📅 2026-10-08 - A headless, GraphQL-first e-commerce platform delivering ultra-fast, dynamic, personalized shopping experiences. Beautiful online stores, anywhere, on any device.
-* [Magento](https://github.com/magento/magento2) ⭐ 12,198 | 🐛 2,326 | 🌐 PHP | 📅 2026-10-07 - [Magento](https://magento.com/) is an open-source e-commerce platform written in PHP. It uses multiple other PHP frameworks such as Laminas and Symfony.
-* [Opencart](https://github.com/opencart/opencart) ⭐ 8,213 | 🐛 228 | 🌐 PHP | 📅 2026-10-08 - A free shopping cart system. [OpenCart](https://www.opencart.com/) is an open source PHP-based online e-commerce solution.
-* [Aimeos](https://github.com/aimeos/aimeos-core) ⭐ 4,536 | 🐛 7 | 🌐 PHP | 📅 2026-10-07 - [Aimeos](https://aimeos.org/) PHP e-commerce framework for ultra fast online shops, complex B2B applications and #gigacommerce.
+* [Bagisto](https://github.com/bagisto/bagisto) ⭐ 28,223 | 🐛 27 | 🌐 PHP | 📅 2026-10-09 - A Free and Opensource laravel eCommerce framework built for all to build and scale your business.
+* [Saleor Commerce](https://github.com/mirumee/saleor) ⭐ 23,427 | 🐛 288 | 🌐 Python | 📅 2026-10-09 - A headless, GraphQL-first e-commerce platform delivering ultra-fast, dynamic, personalized shopping experiences. Beautiful online stores, anywhere, on any device.
+* [Magento](https://github.com/magento/magento2) ⭐ 12,200 | 🐛 2,332 | 🌐 PHP | 📅 2026-10-07 - [Magento](https://magento.com/) is an open-source e-commerce platform written in PHP. It uses multiple other PHP frameworks such as Laminas and Symfony.
+* [Opencart](https://github.com/opencart/opencart) ⭐ 8,214 | 🐛 228 | 🌐 PHP | 📅 2026-10-08 - A free shopping cart system. [OpenCart](https://www.opencart.com/) is an open source PHP-based online e-commerce solution.
+* [Aimeos](https://github.com/aimeos/aimeos-core) ⭐ 4,536 | 🐛 7 | 🌐 PHP | 📅 2026-10-09 - [Aimeos](https://aimeos.org/) PHP e-commerce framework for ultra fast online shops, complex B2B applications and #gigacommerce.
 * [WooCommerce](https://wordpress.org/plugins/woocommerce/) - WooCommerce is an open-source e-commerce plugin for WordPress. It is designed for small to large-sized online merchants using WordPress.
 
 ## ELT Platform
 
-* [Airbyte](https://github.com/airbytehq/airbyte) ⭐ 22,191 | 🐛 2,608 | 🌐 Python | 📅 2026-10-08 - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
+* [Airbyte](https://github.com/airbytehq/airbyte) ⭐ 22,199 | 🐛 2,590 | 🌐 Python | 📅 2026-10-09 - Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.
 
 ## Employee Management
 
@@ -183,39 +183,39 @@
 
 ## Enterprise Resource Planning (ERP)
 
-* [Odoo](https://github.com/odoo/odoo) ⭐ 54,912 | 🐛 10,759 | 🌐 Python | 📅 2026-10-08 - [Odoo](https://www.odoo.com/) is a suite of web based open source business apps, built with python.
-* [ERPNext](https://github.com/frappe/erpnext) ⭐ 39,903 | 🐛 1,451 | 🌐 Python | 📅 2026-10-08 - Open Source Alternative to SAP. ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe) ⭐ 10,905 | 🐛 2,206 | 🌐 Python | 📅 2026-10-08, a full-stack web app framework built with Python & JavaScript.
-* [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,860 | 🐛 486 | 🌐 JavaScript | 📅 2026-08-14 - [idurarapp.com](https://www.idurarapp.com/) is Open Code Source ERP CRM based on Mern-stack (Mongodb , Express.js , React , Node.js)
-* [Dolibarr](https://github.com/Dolibarr/dolibarr) ⭐ 7,703 | 🐛 1,031 | 🌐 PHP | 📅 2026-10-08 - Dolibarr ERP & CRM is a modern software package that helps manage your organization's activity (contacts, suppliers, invoices, orders, stocks, agenda…).
+* [Odoo](https://github.com/odoo/odoo) ⭐ 54,947 | 🐛 10,792 | 🌐 Python | 📅 2026-10-09 - [Odoo](https://www.odoo.com/) is a suite of web based open source business apps, built with python.
+* [ERPNext](https://github.com/frappe/erpnext) ⭐ 39,942 | 🐛 1,433 | 🌐 Python | 📅 2026-10-09 - Open Source Alternative to SAP. ERPNext is built on the [Frappe Framework](https://github.com/frappe/frappe) ⭐ 10,911 | 🐛 2,182 | 🌐 Python | 📅 2026-10-09, a full-stack web app framework built with Python & JavaScript.
+* [IDURAR ERP CRM](https://github.com/idurar/idurar-erp-crm) ⭐ 8,864 | 🐛 486 | 🌐 JavaScript | 📅 2026-08-14 - [idurarapp.com](https://www.idurarapp.com/) is Open Code Source ERP CRM based on Mern-stack (Mongodb , Express.js , React , Node.js)
+* [Dolibarr](https://github.com/Dolibarr/dolibarr) ⭐ 7,705 | 🐛 1,026 | 🌐 PHP | 📅 2026-10-09 - Dolibarr ERP & CRM is a modern software package that helps manage your organization's activity (contacts, suppliers, invoices, orders, stocks, agenda…).
 * [jshERP](https://github.com/jishenghua/jshERP) ⭐ 4,629 | 🐛 108 | 🌐 Java | 📅 2026-10-06 - The ERP system is developed by JshERP.
 * [NexoPOS](https://github.com/Blair2004/NexoPOS) ⭐ 1,270 | 🐛 65 | 🌐 PHP | 📅 2026-10-08 - The base version of NexoPOS, which is a web-Based Point Of Sale (POS) System build with Laravel, TailwindCSS, and Vue.Js.
 
 ## Event Management
 
-* [Attendize](https://github.com/Attendize/Attendize) ⭐ 4,282 | 🐛 295 | 🌐 PHP | 📅 2024-08-20 - Attendize is an open-source ticket selling and event management platform built on Laravel.
+* [Attendize](https://github.com/Attendize/Attendize) ⭐ 4,283 | 🐛 295 | 🌐 PHP | 📅 2024-08-20 - Attendize is an open-source ticket selling and event management platform built on Laravel.
 
 ## File Sharing / Cloud Storage
 
-* [Nextcloud](https://github.com/nextcloud/server) ⭐ 37,034 | 🐛 3,742 | 🌐 PHP | 📅 2026-10-08 - Nextcloud server, a safe home for all your data.
-* [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,774 | 🐛 127 | 🌐 Go | 📅 2026-10-07 - A Dropbox-like file manager that let you manage your data anywhere it is located: FTP • FTPS • SFTP • WebDAV • Git • S3 • LDAP • Mysql
-* [ownCloud](https://github.com/owncloud/core) ⭐ 8,832 | 🐛 141 | 🌐 PHP | 📅 2026-10-06 - [ownCloud](http://owncloud.org/) gives you freedom and control over your own data. A personal cloud which runs on your own server.
+* [Nextcloud](https://github.com/nextcloud/server) ⭐ 37,046 | 🐛 3,755 | 🌐 PHP | 📅 2026-10-09 - Nextcloud server, a safe home for all your data.
+* [Filestash](https://github.com/mickael-kerjean/filestash) ⭐ 14,779 | 🐛 127 | 🌐 Go | 📅 2026-10-09 - A Dropbox-like file manager that let you manage your data anywhere it is located: FTP • FTPS • SFTP • WebDAV • Git • S3 • LDAP • Mysql
+* [ownCloud](https://github.com/owncloud/core) ⭐ 8,834 | 🐛 141 | 🌐 PHP | 📅 2026-10-06 - [ownCloud](http://owncloud.org/) gives you freedom and control over your own data. A personal cloud which runs on your own server.
 
 ## Help Desk
 
-* [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,626 | 🐛 1,563 | 🌐 Ruby | 📅 2026-10-08 - Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
-* [UVDesk](https://github.com/uvdesk/community-skeleton) ⭐ 19,630 | 🐛 81 | 🌐 CSS | 📅 2026-10-07 - [UVdesk](https://www.uvdesk.com/en/) Opensource Community Helpdesk Project built for all to make a full Ticketing Support System along with many more other features.
-* [FreeScout](https://github.com/freescout-helpdesk/freescout) ⭐ 4,592 | 🐛 17 | 🌐 PHP | 📅 2026-10-08 - Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative).
-* [osTicket](https://github.com/osTicket/osTicket) ⭐ 3,981 | 🐛 1,214 | 🌐 PHP | 📅 2026-06-17 - osTicket is a widely-used open source support ticket system. It seamlessly integrates inquiries created via email, phone and web-based forms into a simple easy-to-use multi-user web interface.
+* [Chatwoot](https://github.com/chatwoot/chatwoot) ⭐ 37,654 | 🐛 1,566 | 🌐 Ruby | 📅 2026-10-09 - Customer engagement suite, an open-source alternative to Intercom, Zendesk, Salesforce Service Cloud etc.
+* [UVDesk](https://github.com/uvdesk/community-skeleton) ⭐ 19,631 | 🐛 81 | 🌐 CSS | 📅 2026-10-07 - [UVdesk](https://www.uvdesk.com/en/) Opensource Community Helpdesk Project built for all to make a full Ticketing Support System along with many more other features.
+* [FreeScout](https://github.com/freescout-helpdesk/freescout) ⭐ 4,594 | 🐛 19 | 🌐 PHP | 📅 2026-10-09 - Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative).
+* [osTicket](https://github.com/osTicket/osTicket) ⭐ 3,983 | 🐛 1,216 | 🌐 PHP | 📅 2026-06-17 - osTicket is a widely-used open source support ticket system. It seamlessly integrates inquiries created via email, phone and web-based forms into a simple easy-to-use multi-user web interface.
 * [Handesk](https://github.com/BadChoice/handesk) ⭐ 1,452 | 🐛 119 | 🌐 PHP | 📅 2025-08-12 - A Powerful Laravel Help Desk and Lead Management App.
 * [Zammad](https://zammad.org/) - Zammad is a web-based, open source user support/ticketing solution. Download and install it on your own servers.
 
 ## IDEs / Text Editors
 
-* [Visual Studio Code](https://github.com/microsoft/vscode) ⭐ 193,544 | 🐛 21,637 | 🌐 TypeScript | 📅 2026-10-08 - Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.
+* [Visual Studio Code](https://github.com/microsoft/vscode) ⭐ 193,497 | 🐛 21,650 | 🌐 TypeScript | 📅 2026-10-09 - Visual Studio Code is a free source-code editor made by Microsoft for Windows, Linux and macOS.
 * [Atom](https://github.com/atom/atom) ⚠️ Archived - :atom: The hackable text editor.
-* [Vim](https://github.com/vim/vim) ⭐ 41,161 | 🐛 1,653 | 🌐 Vim Script | 📅 2026-10-07 - Vim is a free and open-source, screen-based text editor program. It is an improved clone of Bill Joy's vi.
-* [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) ⭐ 20,613 | 🐛 152 | 🌐 Java | 📅 2026-10-08 - IntelliJ IDEA is an integrated development environment written in Java for developing computer software written in Java, Kotlin, Groovy, and other JAR based languages.
-* [NetBeans](https://github.com/apache/netbeans) ⭐ 3,139 | 🐛 1,098 | 🌐 Java | 📅 2026-10-08 - Apache NetBeans is an open source development environment, tooling platform, and application framework.
+* [Vim](https://github.com/vim/vim) ⭐ 41,182 | 🐛 1,660 | 🌐 Vim Script | 📅 2026-10-07 - Vim is a free and open-source, screen-based text editor program. It is an improved clone of Bill Joy's vi.
+* [IntelliJ IDEA](https://github.com/JetBrains/intellij-community) ⭐ 20,618 | 🐛 147 | 🌐 Java | 📅 2026-10-09 - IntelliJ IDEA is an integrated development environment written in Java for developing computer software written in Java, Kotlin, Groovy, and other JAR based languages.
+* [NetBeans](https://github.com/apache/netbeans) ⭐ 3,140 | 🐛 1,102 | 🌐 Java | 📅 2026-10-09 - Apache NetBeans is an open source development environment, tooling platform, and application framework.
 * [Code::Blocks](https://www.fosshub.com/Code-Blocks.html?dwl=codeblocks-20.03.tar.xz) - Code::Blocks is a free C/C++ and Fortran IDE built to meet the most demanding needs of its users. It is designed to be very extensible and fully configurable.
 * [Eclipse](https://www.eclipse.org/) - Eclipse is an integrated development environment (IDE) used in computer programming. It contains a base workspace and an extensible plug-in system for customizing the environment.
 
@@ -223,24 +223,24 @@
 
 * [Fotoxx](https://gitlab.com/fotoxx/fotoxx) - Fotoxx is a free open source Linux program for photo/image editing and collection management. The goal is to meet the needs of serious photographers while remaining fast and easy to use.
 * [Gimp](https://gitlab.gnome.org/GNOME/gimp) - Gimp is a free and open-source raster graphics editor used for image manipulation (retouching) and image editing.
-* [Krita](https://github.com/KDE/krita) ⭐ 10,500 | 🐛 0 | 🌐 C++ | 📅 2026-10-08 - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
+* [Krita](https://github.com/KDE/krita) ⭐ 10,507 | 🐛 0 | 🌐 C++ | 📅 2026-10-09 - Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.
 
 ## File Manipulation
 
-* [bat](https://github.com/sharkdp/bat) ⭐ 60,709 | 🐛 543 | 🌐 Rust | 📅 2026-10-07 - A cat(1) clone with wings. Show syntax highlighting and more all in one command.
-* [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,923 | 🐛 27 | 🌐 C++ | 📅 2026-05-06 - Cut, copy, and paste anything, anytime, anywhere. Save time and effort the easy way.
+* [bat](https://github.com/sharkdp/bat) ⭐ 60,721 | 🐛 544 | 🌐 Rust | 📅 2026-10-07 - A cat(1) clone with wings. Show syntax highlighting and more all in one command.
+* [Clipboard](https://github.com/Slackadays/Clipboard) ⭐ 5,922 | 🐛 27 | 🌐 C++ | 📅 2026-05-06 - Cut, copy, and paste anything, anytime, anywhere. Save time and effort the easy way.
 
 ## Knowledge Center / Wiki
 
-* [memos](https://github.com/usememos/memos) ⭐ 63,621 | 🐛 104 | 🌐 Go | 📅 2026-10-08 - A memo hub with knowledge management and social networking.
-* [Outline](https://github.com/outline/outline) ⭐ 40,842 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-08 - A fast, collaborative, knowledge base for your team built using React and Node.js.
-* [BookStack](https://github.com/BookStackApp/BookStack) ⭐ 19,076 | 🐛 3 | 🌐 PHP | 📅 2026-10-08 - A platform to create documentation/wiki content built with PHP & Laravel.
+* [memos](https://github.com/usememos/memos) ⭐ 63,646 | 🐛 98 | 🌐 Go | 📅 2026-10-09 - A memo hub with knowledge management and social networking.
+* [Outline](https://github.com/outline/outline) ⭐ 40,853 | 🐛 78 | 🌐 TypeScript | 📅 2026-10-09 - A fast, collaborative, knowledge base for your team built using React and Node.js.
+* [BookStack](https://github.com/BookStackApp/BookStack) ⭐ 19,080 | 🐛 3 | 🌐 PHP | 📅 2026-10-09 - A platform to create documentation/wiki content built with PHP & Laravel.
 * [Documize](https://github.com/documize/community) ⭐ 2,421 | 🐛 46 | 🌐 JavaScript | 📅 2026-05-18 - Your knowledge operations center. Team-driven content authoring & automation for secure internal and external documentation. It is Confluence alternative designed for internal & external docs, built with Golang + EmberJS.
 
 ## Learning Management Systems (LMS)
 
 * [Canvas LMS](https://github.com/instructure/canvas-lms) ⭐ 6,862 | 🐛 470 | 🌐 Ruby | 📅 2026-04-30 - Canvas is a modern, open-source LMS developed and maintained by [Instructure Inc](https://www.instructure.com/).
-* [Chamilo](https://github.com/chamilo/chamilo-lms) ⭐ 1,008 | 🐛 423 | 🌐 PHP | 📅 2026-10-08 - [Chamilo](https://chamilo.org/) is a learning management system focused on ease of use and accessibility.
+* [Chamilo](https://github.com/chamilo/chamilo-lms) ⭐ 1,009 | 🐛 423 | 🌐 PHP | 📅 2026-10-09 - [Chamilo](https://chamilo.org/) is a learning management system focused on ease of use and accessibility.
 * [ULearn](https://github.com/ulearnpro/ulearn) ⭐ 699 | 🐛 62 | 🌐 PHP | 📅 2026-03-10 - ULEARN is an impressive LMS script which comprises of all the basic features that needed for online learning.
 * [Moodle](https://download.moodle.org/) - Moodle is the world's most popular learning management system. Start creating your online learning site in minutes!
 
@@ -248,56 +248,56 @@
 
 ### Application Monitoring
 
-* [Sentry](https://github.com/getsentry/sentry) ⭐ 45,509 | 🐛 2,254 | 🌐 Python | 📅 2026-10-08 - [Sentry](https://open.sentry.io/) is cross-platform application monitoring, with a focus on error reporting.
-* [Elastic APM](https://github.com/elastic/apm-server) ⭐ 1,270 | 🐛 244 | 🌐 Go | 📅 2026-10-08 - The APM Server receives data from Elastic APM agents and transforms it into Elasticsearch documents. Read more about Elastic APM at elastic.co/apm.
+* [Sentry](https://github.com/getsentry/sentry) ⭐ 45,520 | 🐛 2,269 | 🌐 Python | 📅 2026-10-09 - [Sentry](https://open.sentry.io/) is cross-platform application monitoring, with a focus on error reporting.
+* [Elastic APM](https://github.com/elastic/apm-server) ⭐ 1,271 | 🐛 245 | 🌐 Go | 📅 2026-10-09 - The APM Server receives data from Elastic APM agents and transforms it into Elasticsearch documents. Read more about Elastic APM at elastic.co/apm.
 
 ### Infrastructure Monitoring
 
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 143 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-08 - AI-powered multi-cluster Kubernetes dashboard with real-time observability, CNCF integrations, and AI-guided operations. [Demo](https://console.kubestellar.io)
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 143 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-09 - AI-powered multi-cluster Kubernetes dashboard with real-time observability, CNCF integrations, and AI-guided operations. [Demo](https://console.kubestellar.io)
 
 ### Uptime Monitoring
 
-* [Uptime Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,221 | 🐛 832 | 🌐 JavaScript | 📅 2026-10-08 - A fancy self-hosted monitoring tool, alternative to "Uptime Robot".
+* [Uptime Kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,266 | 🐛 830 | 🌐 JavaScript | 📅 2026-10-09 - A fancy self-hosted monitoring tool, alternative to "Uptime Robot".
 
 ## Newsletter / Mailing List Manager
 
-* [listmonk](https://github.com/knadh/listmonk) ⭐ 23,719 | 🐛 124 | 🌐 Go | 📅 2026-10-07 - A standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary.
+* [listmonk](https://github.com/knadh/listmonk) ⭐ 23,727 | 🐛 128 | 🌐 Go | 📅 2026-10-07 - A standalone, self-hosted, newsletter and mailing list manager. It is fast, feature-rich, and packed into a single binary.
 
 ## NoCode Platform
 
-* [NocoDB](https://github.com/nocodb/nocodb) ⭐ 65,214 | 🐛 716 | 🌐 TypeScript | 📅 2026-10-08 - The Open Source Airtable Alternative. Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
-* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 41,040 | 🐛 4,501 | 🌐 TypeScript | 📅 2026-10-08 - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
-* [REI3](https://github.com/r3-team/r3) ⭐ 582 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-07 - REI3 is an open low code application platform. It runs on almost any system, on-premise or in the cloud and is free to use for individuals and organizations.
+* [NocoDB](https://github.com/nocodb/nocodb) ⭐ 65,226 | 🐛 718 | 🌐 TypeScript | 📅 2026-10-09 - The Open Source Airtable Alternative. Turns any MySQL, PostgreSQL, SQL Server, SQLite & MariaDB into a smart-spreadsheet.
+* [Appsmith](https://github.com/appsmithorg/appsmith) ⭐ 41,045 | 🐛 4,506 | 🌐 TypeScript | 📅 2026-10-09 - Low code project to build admin panels, internal tools, and dashboards. Connect to 15+ database integrations.
+* [REI3](https://github.com/r3-team/r3) ⭐ 582 | 🐛 7 | 🌐 JavaScript | 📅 2026-10-09 - REI3 is an open low code application platform. It runs on almost any system, on-premise or in the cloud and is free to use for individuals and organizations.
 
 ## PaaS
 
-* [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,720 | 🐛 731 | 🌐 PHP | 📅 2026-10-08 - An open-source, hassle-free, self-hostable Heroku & Netlify alternative.
-* [Dokku](https://github.com/dokku/dokku/) ⭐ 32,174 | 🐛 34 | 🌐 Go | 📅 2026-10-08 - A docker-powered PaaS that helps you build and manage the lifecycle of applications.
-* [Rancher](https://github.com/rancher/rancher) ⭐ 25,964 | 🐛 3,370 | 🌐 Go | 📅 2026-10-08 - Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams.
-* [CapRover](https://github.com/caprover/caprover) ⭐ 15,182 | 🐛 179 | 🌐 TypeScript | 📅 2026-10-06 - CapRover is an extremely easy to use app/database deployment & web server manager for your NodeJS, Python, PHP, ASP.NET, Ruby, MySQL, MongoDB, Postgres, WordPress (and etc...) applications!
+* [Coolify](https://github.com/coollabsio/coolify) ⭐ 62,770 | 🐛 730 | 🌐 PHP | 📅 2026-10-09 - An open-source, hassle-free, self-hostable Heroku & Netlify alternative.
+* [Dokku](https://github.com/dokku/dokku/) ⭐ 32,176 | 🐛 34 | 🌐 Go | 📅 2026-10-09 - A docker-powered PaaS that helps you build and manage the lifecycle of applications.
+* [Rancher](https://github.com/rancher/rancher) ⭐ 25,967 | 🐛 3,376 | 🌐 Go | 📅 2026-10-09 - Rancher is an open source container management platform built for organizations that deploy containers in production. Rancher makes it easy to run Kubernetes everywhere, meet IT requirements, and empower DevOps teams.
+* [CapRover](https://github.com/caprover/caprover) ⭐ 15,183 | 🐛 180 | 🌐 TypeScript | 📅 2026-10-06 - CapRover is an extremely easy to use app/database deployment & web server manager for your NodeJS, Python, PHP, ASP.NET, Ruby, MySQL, MongoDB, Postgres, WordPress (and etc...) applications!
 * [Space Cloud](https://github.com/spacecloud-io/space-cloud) ⭐ 4,001 | 🐛 149 | 🌐 Go | 📅 2024-07-04 - Space Cloud is a Kubernetes based serverless platform that provides instant, realtime APIs on any database, with event triggers and unified APIs for your custom business logic.
 
 ## Password Manager
 
 * [LessPass](https://github.com/lesspass/lesspass) ⭐ 6,065 | 🐛 34 | 🌐 TypeScript | 📅 2026-10-04 - LessPass is a stateless password manager.
-* [Passman](https://github.com/nextcloud/passman) ⭐ 822 | 🐛 101 | 🌐 JavaScript | 📅 2026-10-08 - Open source password manager with Nextcloud integration.
+* [Passman](https://github.com/nextcloud/passman) ⭐ 823 | 🐛 101 | 🌐 JavaScript | 📅 2026-10-08 - Open source password manager with Nextcloud integration.
 * [Bitwarden](https://github.com/bitwarden) - Open source password management solutions for individuals, teams, and business organizations.
 * [KeePassXC](https://keepassxc.org/) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 * [Passbolt](https://www.passbolt.com/) - Security-first, open source password manager for team & businesses. Focuse on radical security, collaboration, and privacy. Free, open source, self-hosted, extensible, OpenPGP based.
 
 ## Personal Relationship Management
 
-* [Monica](https://github.com/monicahq/monica) ⭐ 25,450 | 🐛 790 | 🌐 PHP | 📅 2026-09-24 - Personal CRM. Remember everything about your friends, family and business relationships.
+* [Monica](https://github.com/monicahq/monica) ⭐ 25,460 | 🐛 790 | 🌐 PHP | 📅 2026-09-24 - Personal CRM. Remember everything about your friends, family and business relationships.
 
 ## Project Management
 
-* [AppFlowy](https://github.com/AppFlowy-IO/appflowy) ⭐ 77,199 | 🐛 1,034 | 🌐 Dart | 📅 2026-10-08 - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations.
-* [Plane](https://github.com/makeplane/plane) ⭐ 60,545 | 🐛 1,090 | 🌐 TypeScript | 📅 2026-10-08 - Open Source JIRA, Linear and Height Alternative. [Plane](http://plane.so/) helps you track your issues, epics, and product roadmaps in the simplest way possible.
-* [Focalboard](https://github.com/mattermost/focalboard) ⭐ 26,497 | 🐛 784 | 🌐 TypeScript | 📅 2026-05-18 - [Focalboard](https://www.focalboard.com/) is an open source, self-hosted alternative to Trello, Notion, and Asana.
-* [Wekan](https://github.com/wekan/wekan) ⭐ 21,110 | 🐛 79 | 🌐 JavaScript | 📅 2026-10-08 - Wekan is an completely Open Source and Free software collaborative kanban board application with MIT license.
-* [OpenProject](https://github.com/opf/openproject) ⭐ 16,351 | 🐛 280 | 🌐 Ruby | 📅 2026-10-08 - [OpenProject](https://www.openproject.org/) is the leading open source project management software.
+* [AppFlowy](https://github.com/AppFlowy-IO/appflowy) ⭐ 77,213 | 🐛 1,035 | 🌐 Dart | 📅 2026-10-08 - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations.
+* [Plane](https://github.com/makeplane/plane) ⭐ 60,594 | 🐛 1,100 | 🌐 TypeScript | 📅 2026-10-09 - Open Source JIRA, Linear and Height Alternative. [Plane](http://plane.so/) helps you track your issues, epics, and product roadmaps in the simplest way possible.
+* [Focalboard](https://github.com/mattermost/focalboard) ⭐ 26,499 | 🐛 784 | 🌐 TypeScript | 📅 2026-05-18 - [Focalboard](https://www.focalboard.com/) is an open source, self-hosted alternative to Trello, Notion, and Asana.
+* [Wekan](https://github.com/wekan/wekan) ⭐ 21,110 | 🐛 81 | 🌐 JavaScript | 📅 2026-10-08 - Wekan is an completely Open Source and Free software collaborative kanban board application with MIT license.
+* [OpenProject](https://github.com/opf/openproject) ⭐ 16,363 | 🐛 294 | 🌐 Ruby | 📅 2026-10-09 - [OpenProject](https://www.openproject.org/) is the leading open source project management software.
 * [Goodwork](https://github.com/iluminar/goodwork) ⭐ 2,235 | 🐛 9 | 🌐 PHP | 📅 2025-11-12 - Self hosted project management and collaboration tool powered by Laravel & VueJS.
-* [Zentao](https://github.com/easysoft/zentaopms) ⭐ 1,693 | 🐛 16 | 🌐 PHP | 📅 2026-09-17 - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!
+* [Zentao](https://github.com/easysoft/zentaopms) ⭐ 1,696 | 🐛 16 | 🌐 PHP | 📅 2026-09-17 - Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!
 * [MyCollab](https://github.com/MyCollab/mycollab) ⚠️ Archived - An open source, free, high performance, stable and secure Java Application Business Platform of Project Management and Document.
 * [LogChimp](https://logchimp.codecarrot.net) - Build better products by track, manage, and analyse your customers feedback with ease.
 * [Phabricator](https://www.phacility.com/phabricator/) - Phabricator is a suite of web-based software development collaboration tools, including the Differential code review tool, the Diffusion repository browser, the Herald change monitoring tool, the Maniphest bug tracker and the Phriction wiki.
@@ -307,72 +307,72 @@
 
 ## Security
 
-* [BunkerWeb](https://github.com/bunkerity/bunkerweb) ⭐ 11,054 | 🐛 185 | 🌐 Python | 📅 2026-10-07 - BunkerWeb is a next-generation and open-source Web Application Firewall (WAF). It is a full-featured web server (based on NGINX under the hood) to protect web services to make them "secure by default".
-* [tirreno](https://github.com/TirrenoTechnologies/tirreno) ⭐ 1,538 | 🐛 9 | 🌐 PHP | 📅 2026-10-06 - [tirreno](https://www.tirreno.com/) is an open-source cyberfraud protection platform.
+* [BunkerWeb](https://github.com/bunkerity/bunkerweb) ⭐ 11,056 | 🐛 187 | 🌐 Python | 📅 2026-10-07 - BunkerWeb is a next-generation and open-source Web Application Firewall (WAF). It is a full-featured web server (based on NGINX under the hood) to protect web services to make them "secure by default".
+* [tirreno](https://github.com/TirrenoTechnologies/tirreno) ⭐ 1,541 | 🐛 9 | 🌐 PHP | 📅 2026-10-06 - [tirreno](https://www.tirreno.com/) is an open-source cyberfraud protection platform.
 * [amnezia](https://amnezia.org/en) - Amnezia is an open-source VPN client, with a key feature that enables you to deploy your own VPN server on your server.
 
 ## Social Network
 
-* [Mastodon](https://github.com/tootsuite/mastodon) ⭐ 50,357 | 🐛 4,568 | 🌐 Ruby | 📅 2026-10-08 - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones.
-* [HumHub](https://github.com/humhub/humhub) ⭐ 6,752 | 🐛 813 | 🌐 PHP | 📅 2026-10-08 - A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
-* [Friendica](https://github.com/friendica/friendica) ⭐ 1,690 | 🐛 1,373 | 🌐 PHP | 📅 2026-10-08 - Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
+* [Mastodon](https://github.com/tootsuite/mastodon) ⭐ 50,371 | 🐛 4,578 | 🌐 Ruby | 📅 2026-10-09 - Mastodon is a free, open-source social network server based on ActivityPub where users can follow friends and discover new ones.
+* [HumHub](https://github.com/humhub/humhub) ⭐ 6,751 | 🐛 811 | 🌐 PHP | 📅 2026-10-09 - A feature rich and highly flexible OpenSource Social Network Kit written in PHP.
+* [Friendica](https://github.com/friendica/friendica) ⭐ 1,691 | 🐛 1,374 | 🌐 PHP | 📅 2026-10-09 - Friendica is a decentralised communications platform that integrates social communication. Our platform links to independent social projects and corporate services.
 * [Pixelfed](https://pixelfed.org/) - A free and ethical photo sharing platform, powered by ActivityPub federation.
 
 ## Static Site Generators
 
-* [Hugo](https://github.com/gohugoio/hugo) ⭐ 90,065 | 🐛 206 | 🌐 Go | 📅 2026-10-08 - A Fast and Flexible Static Site Generator built with love by bep, spf13 and friends in Go.
-* [Jekyll](https://github.com/jekyll/jekyll) ⭐ 51,706 | 🐛 254 | 🌐 Ruby | 📅 2026-09-17 - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.
-* [MkDocs](https://github.com/mkdocs/mkdocs/) ⭐ 22,495 | 🐛 192 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown.
+* [Hugo](https://github.com/gohugoio/hugo) ⭐ 90,072 | 🐛 209 | 🌐 Go | 📅 2026-10-09 - A Fast and Flexible Static Site Generator built with love by bep, spf13 and friends in Go.
+* [Jekyll](https://github.com/jekyll/jekyll) ⭐ 51,709 | 🐛 253 | 🌐 Ruby | 📅 2026-09-17 - Jekyll is a simple, blog-aware, static site generator perfect for personal, project, or organization sites.
+* [MkDocs](https://github.com/mkdocs/mkdocs/) ⭐ 22,498 | 🐛 192 | 🌐 Python | 📅 2025-10-20 - Project documentation with Markdown.
 * [Jigsaw](https://github.com/tighten/jigsaw) ⭐ 2,254 | 🐛 6 | 🌐 HTML | 📅 2026-08-11 - Simple static sites with Laravel’s Blade.
 
 ## Status Page Systems
 
-* [Cachet](https://github.com/cachethq/cachet) ⭐ 15,256 | 🐛 6 | 🌐 PHP | 📅 2026-10-05 - Cachet is a beautiful and powerful open source status page system.
+* [Cachet](https://github.com/cachethq/cachet) ⭐ 15,255 | 🐛 6 | 🌐 PHP | 📅 2026-10-05 - Cachet is a beautiful and powerful open source status page system.
 
 ## Student Information Systems (SIS)
 
-* [RosarioSIS](https://github.com/francoisjacquet/rosariosis) ⭐ 645 | 🐛 20 | 🌐 PHP | 📅 2026-10-07 - [RosarioSIS](https://www.rosariosis.org), free Student Information System for school management.
+* [RosarioSIS](https://github.com/francoisjacquet/rosariosis) ⭐ 645 | 🐛 20 | 🌐 PHP | 📅 2026-10-09 - [RosarioSIS](https://www.rosariosis.org), free Student Information System for school management.
 
 ## Survey
 
-* [Formbricks](https://github.com/formbricks/formbricks) ⭐ 13,074 | 🐛 187 | 🌐 TypeScript | 📅 2026-10-08 - Open Source Surveys & Experience Management Solution.
-* [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) ⭐ 3,756 | 🐛 65 | 🌐 JavaScript | 📅 2026-10-08 - LimeSurvey most popular FOSS online survey tool on the web, which provides advanced features like branching and multiple question types.
+* [Formbricks](https://github.com/formbricks/formbricks) ⭐ 13,078 | 🐛 183 | 🌐 TypeScript | 📅 2026-10-09 - Open Source Surveys & Experience Management Solution.
+* [LimeSurvey](https://github.com/LimeSurvey/LimeSurvey) ⭐ 3,756 | 🐛 66 | 🌐 JavaScript | 📅 2026-10-09 - LimeSurvey most popular FOSS online survey tool on the web, which provides advanced features like branching and multiple question types.
 
 ## Todo List
 
-* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,632 | 🐛 649 | 🌐 TypeScript | 📅 2026-10-08 - Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks.
-* [Super Productivity](https://github.com/johannesjo/super-productivity) ⭐ 22,633 | 🐛 1,515 | 🌐 TypeScript | 📅 2026-10-07 - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration.
+* [Joplin](https://github.com/laurent22/joplin) ⭐ 56,645 | 🐛 649 | 🌐 TypeScript | 📅 2026-10-09 - Joplin is a free, open source note taking and to-do application, which can handle a large number of notes organised into notebooks.
+* [Super Productivity](https://github.com/johannesjo/super-productivity) ⭐ 22,681 | 🐛 1,505 | 🌐 TypeScript | 📅 2026-10-09 - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration.
 * [Docket App](https://github.com/markstory/docket-app) ⭐ 29 | 🐛 1 | 🌐 PHP | 📅 2026-09-23 - A personal todo list application.
 
 ## Uncategorised
 
-* [Calendso](https://github.com/calendso/calendso) ⭐ 48,916 | 🐛 1,489 | 🌐 TypeScript | 📅 2026-09-26 - The open-source Calendly alternative.
-* [BookStack](https://github.com/BookStackApp/BookStack) ⭐ 19,076 | 🐛 3 | 🌐 PHP | 📅 2026-10-08 - A platform to create documentation/wiki content built with PHP & Laravel.
-* [Wallabag](https://github.com/wallabag/wallabag) ⭐ 13,002 | 🐛 768 | 🌐 PHP | 📅 2026-10-07 - It is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
-* [Mautic](https://github.com/mautic/mautic) ⭐ 10,729 | 🐛 228 | 🌐 PHP | 📅 2026-10-08 - An Open Source Marketing Automation Software.
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,129 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-18 - The open-source alternative to Twilio.
-* [Cryptpad](https://github.com/xwiki-labs/cryptpad) ⭐ 7,998 | 🐛 353 | 🌐 JavaScript | 📅 2026-10-08 - Collaboration suite, end-to-end encrypted and open-source.
-* [Isso](https://github.com/posativ/isso) ⭐ 5,309 | 🐛 62 | 🌐 Python | 📅 2026-09-15 - Isso is a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
-* [Jitsu](https://github.com/jitsucom/jitsu) ⭐ 5,104 | 🐛 44 | 🌐 TypeScript | 📅 2026-10-08 - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams.
-* [Easy!Appointments](https://github.com/alextselegidis/easyappointments) ⭐ 4,421 | 🐛 175 | 🌐 PHP | 📅 2026-10-07 - Easy!Appointments is a highly customizable web application that allows customers to book appointments with you via a sophisticated web interface.
-* [Tolgee](https://github.com/tolgee/tolgee-platform) ⭐ 4,123 | 🐛 207 | 🌐 TypeScript | 📅 2026-10-08 - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop.
-* [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) ⭐ 3,775 | 🐛 4 | 🌐 PHP | 📅 2026-09-20 - TastyIgniter provides a professional and reliable platform for restaurants wanting to offer online food ordering and table reservation to their customers.
+* [Calendso](https://github.com/calendso/calendso) ⭐ 48,931 | 🐛 1,495 | 🌐 TypeScript | 📅 2026-09-26 - The open-source Calendly alternative.
+* [BookStack](https://github.com/BookStackApp/BookStack) ⭐ 19,080 | 🐛 3 | 🌐 PHP | 📅 2026-10-09 - A platform to create documentation/wiki content built with PHP & Laravel.
+* [Wallabag](https://github.com/wallabag/wallabag) ⭐ 13,003 | 🐛 768 | 🌐 PHP | 📅 2026-10-07 - It is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+* [Mautic](https://github.com/mautic/mautic) ⭐ 10,739 | 🐛 213 | 🌐 PHP | 📅 2026-10-09 - An Open Source Marketing Automation Software.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,131 | 🐛 33 | 🌐 TypeScript | 📅 2026-09-18 - The open-source alternative to Twilio.
+* [Cryptpad](https://github.com/xwiki-labs/cryptpad) ⭐ 8,002 | 🐛 354 | 🌐 JavaScript | 📅 2026-10-09 - Collaboration suite, end-to-end encrypted and open-source.
+* [Isso](https://github.com/posativ/isso) ⭐ 5,310 | 🐛 62 | 🌐 Python | 📅 2026-09-15 - Isso is a lightweight commenting server written in Python and JavaScript. It aims to be a drop-in replacement for Disqus.
+* [Jitsu](https://github.com/jitsucom/jitsu) ⭐ 5,105 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-09 - Jitsu is an open-source Segment alternative. Fully-scriptable data ingestion engine for modern data teams.
+* [Easy!Appointments](https://github.com/alextselegidis/easyappointments) ⭐ 4,423 | 🐛 175 | 🌐 PHP | 📅 2026-10-07 - Easy!Appointments is a highly customizable web application that allows customers to book appointments with you via a sophisticated web interface.
+* [Tolgee](https://github.com/tolgee/tolgee-platform) ⭐ 4,124 | 🐛 208 | 🌐 TypeScript | 📅 2026-10-09 - Developer & translator friendly web-based localization platform enabling users to translate directly in the app they develop.
+* [TastyIgniter](https://github.com/tastyigniter/TastyIgniter) ⭐ 3,778 | 🐛 4 | 🌐 PHP | 📅 2026-09-20 - TastyIgniter provides a professional and reliable platform for restaurants wanting to offer online food ordering and table reservation to their customers.
 * [GlobaLeaks](https://github.com/globaleaks/globaleaks-whistleblowing-software) ⭐ 1,518 | 🐛 635 | 🌐 Python | 📅 2026-10-08 - Free and open-source whistleblowing software enabling anyone to easily set up and maintain a secure reporting platform.
 * [Screeenly](https://github.com/stefanzweifel/screeenly) ⭐ 533 | 🐛 4 | 🌐 PHP | 📅 2026-05-21 - Screenshot as a Service: Create website screenshots through a simple API.
-* [SellYourSaas](https://github.com/DoliCloud/sellyoursaas) ⭐ 295 | 🐛 20 | 🌐 PHP | 📅 2026-10-08 - The all-in-one Open Source project for a 100% automated SaaS company.
+* [SellYourSaas](https://github.com/DoliCloud/sellyoursaas) ⭐ 295 | 🐛 20 | 🌐 PHP | 📅 2026-10-09 - The all-in-one Open Source project for a 100% automated SaaS company.
 * [Snoopforms](https://snoopforms.com/) - The Open-source Typeform Alternative.
 
 ## Version Control
 
-* [Gogs](https://github.com/gogs/gogs) ⭐ 47,859 | 🐛 1,012 | 🌐 Go | 📅 2026-09-12 - The Gogs (/gɑgz/) project aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way.
-* [GitBucket](https://github.com/gitbucket/gitbucket) ⭐ 9,402 | 🐛 337 | 🌐 Scala | 📅 2026-10-05 - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility.
+* [Gogs](https://github.com/gogs/gogs) ⭐ 47,863 | 🐛 1,012 | 🌐 Go | 📅 2026-09-12 - The Gogs (/gɑgz/) project aims to build a simple, stable and extensible self-hosted Git service that can be setup in the most painless way.
+* [GitBucket](https://github.com/gitbucket/gitbucket) ⭐ 9,402 | 🐛 337 | 🌐 Scala | 📅 2026-10-09 - A Git platform powered by Scala with easy installation, high extensibility & GitHub API compatibility.
 * [Diffusion](https://www.phacility.com/phabricator/diffusion/) - Code Browsing and Repository Hosting.
 * [GitLab](https://about.gitlab.com/install/) - GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and continuous integration and deployment pipeline features, using an open-source license, developed by GitLab Inc.
 
 ## Video Conferencing
 
-* [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,057 | 🐛 149 | 🌐 TypeScript | 📅 2026-10-08 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
+* [Jitsi Meet](https://github.com/jitsi/jitsi-meet) ⭐ 30,062 | 🐛 139 | 🌐 TypeScript | 📅 2026-10-09 - Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
